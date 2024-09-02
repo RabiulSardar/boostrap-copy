@@ -1,0 +1,15 @@
+@media (min-width:320px) and (max-width:575.99px){
+    .navbar-collapse{
+        margin-left: 0 !important;
+    }
+    .hading h1{
+            margin-left: 48px;
+            font-size: 40px;     
+    }
+   #nav-button{
+    display: none;
+   }
+  .container-fluid{
+  column-gap: 50px;
+  }
+}
